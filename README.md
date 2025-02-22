@@ -1,10 +1,10 @@
-MedLearn - Empowering Medical Education
+# MedLearn - Empowering Medical Education
 
-📌 Overview
+# 📌 Overview
 
 MedLearn is an online educational resource designed to provide medical students with up-to-date, useful information, interactive tools, and a supportive community. Built on a Content Management System (CMS), it offers an intuitive interface for easy navigation and access to a vast collection of educational materials.
 
-🎯 Key Features
+# 🎯 Key Features
 
 Comprehensive Educational Resources: Lecture notes, case studies, video lessons, and interactive quizzes.
 
@@ -16,7 +16,7 @@ Collaboration & Community: Discussion forums, study groups, and mentorship oppor
 
 Secure & Scalable: Built with robust authentication and cloud-based storage.
 
-🚀 Tech Stack
+# 🚀 Tech Stack
 
 Frontend: React.js / Next.js
 
@@ -33,12 +33,17 @@ Hosting & Cloud: AWS / Google Cloud / Firebase
 🚀 INSTALLATION ANS SET-UP 
 
 # Clone the repository
-git clone https://github.com/yourusername/medlearn.git
+git clone https://github.com/ritika015/medlearn.git
 cd medlearn
 
 # Install dependencies
-npm install  # or yarn install
+✔ GraphQL Support: graphql, apollo-server-express, @apollo/client
+✔ WYSIWYG Editor (Rich Text): quill, draft-js, tinymce
+✔ Search & Filters: elasticlunr, fuse.js
+✔ Real-Time Updates: socket.io
+✔ Caching & Performance: redis, node-cache
+
 
 # Run the development server
-npm start  # or yarn start
+http://medi.free.nf/
 
